@@ -1,0 +1,5 @@
+packages:
+  .
+  ../json-rpc-core
+  ../json-rpc-client
+  ../json-rpc-server
